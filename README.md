@@ -60,31 +60,6 @@ Scores from the last 5 quizzes.
 
 Response maps (Question ID vs. Selected Option).
 
-# Approach
-
-Data Analysis:
-
-Clean and preprocess data.
-
-Extract features like topic-wise performance, accuracy rates, and difficulty levels.
-
-Insight Generation:
-
-Identify weak areas based on incorrect responses.
-
-Track improvement trends across quizzes.
-
-Rank Prediction:
-
-Train a regression/classification model using historical NEET data.
-
-Apply the model to predict ranks based on user performance.
-
-College Prediction (Bonus):
-
-Map predicted ranks to historical admission data to suggest colleges.
-
-
 # Sample Inputs & Outputs
 
 Input: User's latest quiz submission + historical data.
@@ -93,21 +68,13 @@ Output: Predicted NEET rank and recommended colleges.
 
 # 📸 Screenshots
 
-## Quiz Performance Dashboard
-![Quiz Performance Dashboard](images/image.png)
+https://github.com/vinod8833/neet_rank/blob/main/Student_Rank/images/image-1.png
 
-## Accuracy Graph
-![Accuracy Graph](images/image-1.png)
+https://github.com/vinod8833/neet_rank/blob/main/Student_Rank/images/image-2.png
 
-## Rank Prediction Chart
-![Rank Prediction Chart](images/image-2.png)
+https://github.com/vinod8833/neet_rank/blob/main/Student_Rank/images/image-3.png
 
-## Improvement Trends
-![Improvement Trends](images/image-3.png)
-
-
-
-
+https://github.com/vinod8833/neet_rank/blob/main/Student_Rank/images/image.png
 
 # Demonstration Video
 
