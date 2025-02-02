@@ -91,17 +91,22 @@ Input: User's latest quiz submission + historical data.
 
 Output: Predicted NEET rank and recommended colleges.
 
-# Screenshots
-
 # 📸 Screenshots
 
-![Quiz Performance Dashboard](image.png)
+## Quiz Performance Dashboard
+![Quiz Performance Dashboard](images/image.png)
 
-![Accuracy Graph](image-1.png)
+## Accuracy Graph
+![Accuracy Graph](images/image-1.png)
 
-![Rank Prediction Chart](image-2.png)
+## Rank Prediction Chart
+![Rank Prediction Chart](images/image-2.png)
 
-![Improvement Trends](image-3.png)
+## Improvement Trends
+![Improvement Trends](images/image-3.png)
+
+
+
 
 
 # Demonstration Video
