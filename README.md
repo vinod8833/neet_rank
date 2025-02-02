@@ -68,18 +68,12 @@ Output: Predicted NEET rank and recommended colleges.
 
 # 📸 Screenshots
 
-# 📸 Screenshots
-
-## 📊 Quiz Performance Dashboard
 ![Quiz Performance Dashboard](https://github.com/vinod8833/neet_rank/blob/main/Student_Rank/images/image.png?raw=true)
 
-## 🎯 Accuracy Graph
 ![Accuracy Graph](https://github.com/vinod8833/neet_rank/blob/main/Student_Rank/images/image-1.png?raw=true)
 
-## 📈 Rank Prediction Chart
 ![Rank Prediction Chart](https://github.com/vinod8833/neet_rank/blob/main/Student_Rank/images/image-2.png?raw=true)
 
-## 🚀 Improvement Trends
 ![Improvement Trends](https://github.com/vinod8833/neet_rank/blob/main/Student_Rank/images/image-3.png?raw=true)
 
 
