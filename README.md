@@ -30,9 +30,12 @@ Frontend (Optional): React.js for UI
 
 Clone the repository:
 
-```git clone https://github.com/vinod8833/neet_rank.git
 ```
-```cd neet_rank
+git clone https://github.com/vinod8833/neet_rank.git
+
+```
+```
+cd neet_rank
 ```
 
 # API Endpoints
@@ -90,13 +93,16 @@ Output: Predicted NEET rank and recommended colleges.
 
 # Screenshots
 
-![alt text](image.png)
+# 📸 Screenshots
 
-![alt text](image-1.png)
+![Quiz Performance Dashboard](image.png)
 
-![alt text](image-2.png)
+![Accuracy Graph](image-1.png)
 
-![alt text](image-3.png)
+![Rank Prediction Chart](image-2.png)
+
+![Improvement Trends](image-3.png)
+
 
 # Demonstration Video
 
